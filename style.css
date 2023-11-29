@@ -5,3 +5,11 @@ p {
 body {
     background: #f1ead1
 }
+
+#imagem {
+    text-align: center;
+}
+
+.imagem {
+    text-align: center;    
+}
